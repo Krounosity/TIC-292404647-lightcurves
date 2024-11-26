@@ -2,12 +2,23 @@
 
 This project analyzes lightcurve data from the TESS (Transiting Exoplanet Survey Satellite) mission to study a particular star's brightness variations over time. Using FITS files provided by the TESS archive, the data is processed to identify periodic signals that may indicate phenomena such as starspots or potential exoplanet transits.
 
-## Star Coordinates:
-- **Right Ascension (RA):** 1.2161111111111111
-- **Declination (Dec):** -25.13361111111111
+## Star Details:
+- **Label**: TIC 292404647
+- **Mission**: TESS
+- **Sector**: 18
+- **Camera**: 2
+- **CCD**: 3
+- **Right Ascension (RA):** 32.1834732881428
+- **Declination (Dec):** 45.0960565496668
 
 ## Observation Period:
-- **Date/Time of Observation:** November 26, 2024, 12:02 UTC
+- **Start Time**: 2019-11-03 03:50:33
+- **Exposure Length (based on current data used. May update as new data is used)**: 120s 
+- **Release Date**: 2019-12-16 08:00:00
+
+## Technology used:
+- [Python](https://www.python.org/)
+  - [Lightkurve](https://lightkurve.github.io/lightkurve/) v2.5: A friendly Python package for making discoveries with Kepler & TESS.
 
 ## Data and Processing Overview:
 
@@ -33,4 +44,5 @@ This analysis provides insight into the star's periodic variations, which may in
 - Potential follow-up observations to confirm the discovery of an exoplanet or other periodic phenomena.
 
 ## Acknowledgments:
-The data used in this project is provided by NASA’s TESS mission and is publicly available through the Mikulski Archive for Space Telescopes (MAST).
+**Data**
+- [MAST: Barbara A. Mikulski Archive for Space Telescopes](https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html)
