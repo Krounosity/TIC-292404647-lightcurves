@@ -3,6 +3,13 @@
 
 This project analyzes lightcurve data from the TESS (Transiting Exoplanet Survey Satellite) mission to study a particular star's brightness variations over time. Using FITS files provided by the TESS archive, the data is processed to identify periodic signals that may indicate phenomena such as starspots or potential exoplanet transits.
 
+**As of 27-11-2024 0113hrs, no exoplanets have been registered for star TIC 292404647 on the following databases:**
+- [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/)
+- [Exoplanet.eu](https://exoplanet.eu/catalog/)
+- [ExoFOP](https://exofop.ipac.caltech.edu/tess/)
+- [SIMBAD](https://simbad.u-strasbg.fr/simbad/sim-fcoo)
+- [VizieR](https://vizier.cds.unistra.fr/viz-bin/VizieR)
+
 <div align="center">
   <img src="./output.png" alt="TIC 292404647 Lightcurve" />
 </div>
