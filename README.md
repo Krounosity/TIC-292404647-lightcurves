@@ -3,8 +3,9 @@
 
 This project analyzes lightcurve data from the TESS (Transiting Exoplanet Survey Satellite) mission to study a particular star's brightness variations over time. Using FITS files provided by the TESS archive, the data is processed to identify periodic signals that may indicate phenomena such as starspots or potential exoplanet transits.
 
-![TIC 292404647 Lightcurve](./output.png)
-
+<div align="center">
+  <img src="./output.png" alt="TIC 292404647 Lightcurve" />
+</div>
 
 ## Star Details:
 - **Label**: TIC 292404647
@@ -15,7 +16,9 @@ This project analyzes lightcurve data from the TESS (Transiting Exoplanet Survey
 - **Right Ascension (RA):** 32.1834732881428
 - **Declination (Dec):** 45.0960565496668
 
-![TIC 292404647 AstroView image](./AstroView.png)
+<div align="center">
+  <img src="AstroView.png" alt="TIC 292404647 AstroView image" />
+</div>
 
 ## Observation Period:
 - **Start Time**: 2019-11-03 03:50:33
