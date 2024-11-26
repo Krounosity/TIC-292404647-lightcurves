@@ -1,4 +1,4 @@
-# Lightcurve Analysis for Star Discovery
+# Lightcurve Analysis for Star Discovery ![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
 ***
 
 This project analyzes lightcurve data from the TESS (Transiting Exoplanet Survey Satellite) mission to study a particular star's brightness variations over time. Using FITS files provided by the TESS archive, the data is processed to identify periodic signals that may indicate phenomena such as starspots or potential exoplanet transits.
