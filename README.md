@@ -19,7 +19,7 @@ This project analyzes lightcurve data from the TESS (Transiting Exoplanet Survey
 ## Technology used:
 - [Python](https://www.python.org/)
   - [Lightkurve](https://lightkurve.github.io/lightkurve/) v2.5: A friendly Python package for making discoveries with Kepler & TESS.
-
+- [Jupyter Notebook](https://jupyter.org/)
 ## Data and Processing Overview:
 
 1. **Loading Data**: The FITS files, containing raw lightcurve data from TESS, are loaded into the analysis pipeline.
