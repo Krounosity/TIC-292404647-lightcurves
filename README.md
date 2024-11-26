@@ -37,6 +37,7 @@ This project analyzes lightcurve data from the TESS (Transiting Exoplanet Survey
 7. **Binning and Plotting**: To reduce noise, the folded lightcurve is binned, and a final plot is generated to visualize the periodic behavior of the star over the observed period.
 
 ## Results:
+![TIC 292404647 Lightcurve](./output.png)
 This analysis provides insight into the star's periodic variations, which may indicate underlying astrophysical processes such as rotational modulation, eclipsing binaries, or potential transiting exoplanets. The plotted lightcurve shows a clear pattern of variability, confirming the presence of periodic behavior.
 
 ## Future Work:
