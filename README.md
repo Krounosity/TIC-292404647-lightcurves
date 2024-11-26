@@ -58,8 +58,9 @@ This analysis provides insight into the star's periodic variations, which may in
 ## Future Work:
 - Further refinement of the periodogram and analysis to identify the exact nature of the periodic signal.
 - Potential follow-up observations to confirm the discovery of an exoplanet or other periodic phenomena.
-***
 
 ## Acknowledgments:
 **Data**
 - [MAST: Barbara A. Mikulski Archive for Space Telescopes](https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html)
+
+***
