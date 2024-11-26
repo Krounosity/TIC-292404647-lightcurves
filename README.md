@@ -15,6 +15,8 @@ This project analyzes lightcurve data from the TESS (Transiting Exoplanet Survey
 - **Right Ascension (RA):** 32.1834732881428
 - **Declination (Dec):** 45.0960565496668
 
+![TIC 292404647 AstroView image](./AstroView.png)
+
 ## Observation Period:
 - **Start Time**: 2019-11-03 03:50:33
 - **Exposure Length (based on current data used. May update as new data is used)**: 120s 
