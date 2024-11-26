@@ -1,6 +1,10 @@
 # Lightcurve Analysis for Star Discovery
+***
 
 This project analyzes lightcurve data from the TESS (Transiting Exoplanet Survey Satellite) mission to study a particular star's brightness variations over time. Using FITS files provided by the TESS archive, the data is processed to identify periodic signals that may indicate phenomena such as starspots or potential exoplanet transits.
+
+![TIC 292404647 Lightcurve](./output.png)
+
 
 ## Star Details:
 - **Label**: TIC 292404647
@@ -42,6 +46,7 @@ This analysis provides insight into the star's periodic variations, which may in
 ## Future Work:
 - Further refinement of the periodogram and analysis to identify the exact nature of the periodic signal.
 - Potential follow-up observations to confirm the discovery of an exoplanet or other periodic phenomena.
+***
 
 ## Acknowledgments:
 **Data**
