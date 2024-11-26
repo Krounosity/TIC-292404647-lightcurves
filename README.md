@@ -3,12 +3,22 @@
 
 This project analyzes lightcurve data from the TESS (Transiting Exoplanet Survey Satellite) mission to study a particular star's brightness variations over time. Using FITS files provided by the TESS archive, the data is processed to identify periodic signals that may indicate phenomena such as starspots or potential exoplanet transits.
 
+**Note: The findings presented here are preliminary and require further validation to ascertain their significance."**
+
+Focusing on the star **TIC 292404647**, a periodic **rise** in the luminosity was found in the data recorded. This can be an indication of several phenomenon:
+- The star being a Cepheid/RR Lyrae star, which SIMBAD does not list as one yet,
+- The star being a flare stars, which SIMBAD does not list as one yet,
+- The presence of a dust cloud in the observation, although in this case the periodic nature would be tough to explain, which will be ascertained with the available of data with longer exposure,
+- Rotation Modeulation of the star, which will be ascertained with the available of data with longer exposure 
+
 **As of 27-11-2024 0113hrs, no exoplanets have been registered for star TIC 292404647 on the following databases:**
 - [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/)
 - [Exoplanet.eu](https://exoplanet.eu/catalog/)
 - [ExoFOP](https://exofop.ipac.caltech.edu/tess/)
 - [SIMBAD](https://simbad.u-strasbg.fr/simbad/sim-fcoo)
 - [VizieR](https://vizier.cds.unistra.fr/viz-bin/VizieR)
+
+**As of 27-11-2024 0127hrs, there are no annotations of the star TIC 292404647 on any papers in [SIMBAD](https://simbad.u-strasbg.fr/simbad/sim-basic?Ident=TIC+292404647&submit=SIMBAD+search)**
 
 <div align="center">
   <img src="./output.png" alt="TIC 292404647 Lightcurve" />
