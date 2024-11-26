@@ -3,8 +3,9 @@
 
 This project analyzes lightcurve data from the TESS (Transiting Exoplanet Survey Satellite) mission to study a particular star's brightness variations over time. Using FITS files provided by the TESS archive, the data is processed to identify periodic signals that may indicate phenomena such as starspots or potential exoplanet transits.
 
-**Note: The findings presented here are preliminary and require further validation to ascertain their significance."**
-
+***
+## Note: The findings presented here are preliminary and require further validation to ascertain their significance.
+***
 Focusing on the star **TIC 292404647**, a periodic **rise** in the luminosity was found in the data recorded. This can be an indication of several phenomenon:
 - The star being a Cepheid/RR Lyrae star, which SIMBAD does not list as one yet,
 - The star being a flare stars, which SIMBAD does not list as one yet,
