@@ -11,7 +11,7 @@ Focusing on the star **TIC 292404647**, a periodic **rise** in the luminosity wa
 - The star being a Cepheid/RR Lyrae star, which SIMBAD does not list as one yet,
 - The star being a flare stars, which SIMBAD does not list as one yet,
 - The presence of a dust cloud in the observation, although in this case the periodic nature would be tough to explain, which will be ascertained with the available of data with longer exposure,
-- Rotation Modeulation of the star, which will be ascertained with the available of data with longer exposure 
+- Rotation Modulation of the star, which will be ascertained with the available of data with longer exposure 
 
 **As of 27-11-2024 0113hrs, no exoplanets have been registered for star TIC 292404647 on the following databases:**
 - [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/)
